@@ -1,0 +1,62 @@
+.btn-primary {
+    border: 0;
+    font-weight: bold;
+    padding: 10px 30px 10px 30px;
+}
+
+.herosiwikode h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+.btn-outline-danger {
+    border: 1px solid #2c3b51;
+    color: #2c3b51;
+    font-weight: bold;
+    padding: 10px 30px 10px 30px;
+}
+li a:hover {
+    border-bottom: 2px dotted #ff004d;
+}
+
+.navbar-nav .nav-link {
+    color: #2c3b51;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.card-text {
+    color: #ffffff;
+}
+.explore{
+    color: #2c3b51;
+    font-weight: bold;
+}
+.breadcrumb {
+    background: #ffffff;
+    
+}
+
+li.breadcrumb-item a {
+    text-decoration: none;
+    color: #ff004d;
+}
+
+.search {
+    border: 1px solid #2c3b51;
+}
+
+h1.tipografi {
+    font-family: 'Poppins', serif;
+}
+
+span {
+    color: #ff004d;
+}
+
+p {
+    font-family: 'Poppins', serif;
+    font-weight: 400;
+}
